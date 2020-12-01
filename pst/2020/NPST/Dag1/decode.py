@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf8 -*-
-import os, sys, codecs
+import os, sys
 
 scrambled = "RUVJgkJqPåGtFgvLwnKilgp"
 diff = -2
